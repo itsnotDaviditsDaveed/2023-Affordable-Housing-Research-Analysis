@@ -89,3 +89,33 @@ Answers:
 Answers: 
 
 **8-19% (19 rounded) of 2023 units were for Middle Income Households**
+
+
+
+# My Business Solution & Summary of My Report:
+
+
+
+
+# Family-Sized Units In Queens * The Bronx
+**The Problem**: According to the data, only 4-7% of units in Queens & the Bronx were 3-BR Units and over, despite being high density family areas.
+**The Solution**: THE HPD should implement a 15% minimum mandate for 3-BR+ units in all New Construction projects in Queens and the Bronx to prevent family displacement, in the future.
+
+
+# Manhattan Efficiency
+**The Problem**: The average time of a project was 7 months, but some projects took about 2 years.
+**The Solution**: Conduct an operational audit of Manhattan’s "0-month" completion projects to identify fast-track permitting processes that can be replicated in Brooklyn and the Bronx to reduce carrying costs for developers, in the future.
+
+
+# Diversify Housing Tenure (The 2% Problem)
+
+**The Problem**: Homeownership has been nearly non-existent in the 2023 affordable pipeline (2%).
+**The Solution**: In the future, try to increase funding for "Limited Equity Cooperatives" (LECs) and land trusts, specifically targeting the Top 5 Hotspot neighborhoods (like East Flatbush) to convert rental-heavy pipelines into wealth-building homeownership opportunities.
+
+
+
+
+# Bridge the 9% Middle-Income Gap
+
+**The Problem**: A public perception that "affordable" housing only serves the middle class, yet only 19% of units fell into this tier.
+**The Solution**: Use data-driven transparency dashboards to show the public that 81% of units are serving low-to-moderate-income residents, helping to reduce "NIMBY" (Not In My Backyard) resistance to new projects in the future.
