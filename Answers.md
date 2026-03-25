@@ -60,9 +60,12 @@ Answers:
 **Question 6**: The Homeownership Opportunity: What percentage of the 2023 housing "wins" were for Homeownership (buying) versus Rentals?
 Answers: 
 
+<img width="1889" height="607" alt="The &#39;Wealth Building&#39; View (Counted Rental vs Homeownership Units)" src="https://github.com/user-attachments/assets/a0728d61-3dc0-45ea-a642-dd73af0cd4e8" />
+
 * There are 26971 Rental Units, while there are 764 counted homeownership units. So more rented units back in 2023 than owned homes. 
 * 2% of all counted units were Homeowner units, while 97% of all counted units were Rental Units.
 * Brooklyn had the most homeowner units, while also having the most rental units.
+
 
 
 
@@ -80,6 +83,8 @@ Answers:
 
 
 ** Question 8**: The Middle Income Reality Check: What percentage of "affordable" units were actually designated for Middle Income households ($100k+ earners)?
+
+<img width="1809" height="807" alt="The Middle Income Reality Check" src="https://github.com/user-attachments/assets/6e91bc8e-6bdf-4a58-9abb-4253ca33e404" />
 
 Answers: 
 
