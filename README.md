@@ -21,7 +21,7 @@ Development Efficiency: What is the average 'time-to-market' from project financ
 * Deeply affordable units (ELI/VLI) made up [X]% of total 2023 production.
 
 
-#**Questions I Asked**:
+# **Questions I Asked**:
 * **The Borough Leaderboard (Construction Type)**: Which borough saw the most New Construction in 2023, and what was the ratio of New Construction vs. Preservation for each borough?
 * **The "Deep Affordability" Check**: What percentage of all units counted in 2023 were dedicated to Extremely Low Income (ELI) and Very Low Income (VLI) households?
 * **The Family Gap**: What is the citywide percentage of family-sized units (3-BR or larger), and which borough is doing the best job providing for actual families?
