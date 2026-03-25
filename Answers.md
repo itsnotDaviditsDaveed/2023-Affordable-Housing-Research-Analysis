@@ -2,11 +2,18 @@
 
 
 **Question 1**: The Borough Leaderboard (Construction Type): Which borough saw the most New Construction in 2023, and what was the ratio of New Construction vs. Preservation for each borough?
+
+<img width="1844" height="807" alt="All Counted Units For Each Borough" src="https://github.com/user-attachments/assets/e336eae2-6534-4ca0-96b4-91d9fb6cbf3c" />
+
 Answer: The borough that had the most new construction in 2023 was **Staten Island** (100%). And the borough that had the most preservation buildings was **Manhattan** (79.7%)
+
+
+
 
 **Question 2**: The "Deep Affordability" Check: What percentage of all units counted in 2023 were dedicated to Extremely Low Income (ELI) and Very Low Income (VLI) households? 
 What percentage of populations are receiving help that need it the most?
 
+<img width="1826" height="707" alt="The &#39;Deep Affordability&#39; Check_" src="https://github.com/user-attachments/assets/f6bd84ea-b139-4090-952e-f6aa2611061f" />
 
 Answers:
 * The total of Extreme Low Income is **5655 units**
@@ -16,6 +23,8 @@ Answers:
 
 
 **Question 3**: What is the citywide percentage of family-sized units (3-BR or larger), and which borough is doing the best job providing for actual families?
+
+<img width="1809" height="807" alt="The &#39;Borough&#39; Winner" src="https://github.com/user-attachments/assets/18ae618d-1745-4539-aacf-72381ba2dbf4" />
 
 Answers: 
 * **8.85% (9% rounded)** of all units built across NYC were family-sized (3 bedrooms or larger). (Citywide)
@@ -30,10 +39,12 @@ Answers:
 
 
 **Question 4**: The Efficiency Metric: What was the average time-to-completion (in months) for affordable housing projects finished in 2023?
+
+<img width="1809" height="807" alt="The Efficiency Metric (Construction Speed)" src="https://github.com/user-attachments/assets/b28d59b0-67d3-48e3-9709-6a661d24a98e" />
+
 Answers:
 * In 2023, the average time to completion for affordable housing projects was **7** months. The fastest project took less than a month.
 * The slowest project took **23 months** (**a year and 11 months**). The majority of projects that took 0 months to complete were done in Manhattan.
-
 
 
 
